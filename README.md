@@ -10,3 +10,7 @@ Change is tough and painful, but that is not the reason give up.
 ### 1月
 
 [一些原则性问题](docs/w-001.md)
+
+### 2月
+
+[关于在家期间的反思](docs/w-002.md)
